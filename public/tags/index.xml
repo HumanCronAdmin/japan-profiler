@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Japan Profiler</title>
+    <link>https://humancronadmin.github.io/japan-profiler/tags/</link>
+    <description>Recent content in Tags on Japan Profiler</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://humancronadmin.github.io/japan-profiler/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Japan Travel</title>
+      <link>https://humancronadmin.github.io/japan-profiler/tags/japan-travel/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://humancronadmin.github.io/japan-profiler/tags/japan-travel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Safety</title>
+      <link>https://humancronadmin.github.io/japan-profiler/tags/safety/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://humancronadmin.github.io/japan-profiler/tags/safety/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scams</title>
+      <link>https://humancronadmin.github.io/japan-profiler/tags/scams/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://humancronadmin.github.io/japan-profiler/tags/scams/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tour Guides</title>
+      <link>https://humancronadmin.github.io/japan-profiler/tags/tour-guides/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://humancronadmin.github.io/japan-profiler/tags/tour-guides/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

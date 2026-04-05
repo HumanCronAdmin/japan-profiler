@@ -1,0 +1,50 @@
+baseURL = 'https://humancronadmin.github.io/japan-profiler/'
+languageCode = 'en-us'
+title = 'Japan Profiler'
+theme = 'PaperMod'
+
+[params]
+  description = "Data-driven guides for travelers and residents in Japan. We analyze hundreds of real experiences to find the problems nobody else is solving."
+  author = "Japan Profiler"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+  defaultTheme = "auto"
+  disableThemeToggle = false
+
+  [params.homeInfoParams]
+    Title = "Japan Profiler"
+    Content = "Data-driven guides for travelers and residents in Japan. We analyze hundreds of real experiences to find the problems nobody else is solving."
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
+[permalinks]
+  posts = "/:slug/"
+
+[[menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 10
+
+[[menus.main]]
+  name = "Search"
+  url = "/search/"
+  weight = 20
