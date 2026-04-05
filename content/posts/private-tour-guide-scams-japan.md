@@ -121,7 +121,7 @@ The license is one data point, not a guarantee.
 |----------|----------|---------------|
 | **GoWithGuide** | Direct guide selection, video profiles, founded in Tokyo | Smaller selection in rural areas |
 | **MagicalTrip** | Curated local experiences, TripAdvisor 2025 Best of the Best | Less customization for itineraries |
-| **Viator** | Huge selection, lots of reviews | Documented no-show issues, refund difficulties |
+| **[Viator](https://www.viator.com/Japan/d15-ttd?pid=P00294434&mcid=42383&medium=link&campaign=tour-guide-article)** | Huge selection, lots of reviews | Documented no-show issues, refund difficulties |
 | **GetYourGuide** | Curated experiences, good UX | Customer service complaints, double-charging reports |
 | **Klook** | Last-minute deals, attraction tickets | Less guide vetting, activity-focused |
 | **Japan Guide Agency** | All guides are nationally licensed | Higher price, less flexibility |
